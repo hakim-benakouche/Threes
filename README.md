@@ -14,7 +14,7 @@ Le programme se divise en 5 modules Python :
 ## Pour lancer le jeu sur votre terminal : 
 
 - python doit être installé ainsi que la bibliothèque termcolor (via la commande : pip install termcolor)
-- exécuter le fichier app.py (via la commande : python app.py)
+- dans le package jeu-threes, exécuter le fichier app.py (via la commande : python app.py)
 
 ## Règles pour se déplacer : 
 
