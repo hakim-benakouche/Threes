@@ -34,4 +34,5 @@ Le programme se divise en 5 modules Python :
 
 - Partie Terminée
 <img src="screens/3-PartieTerminée.png" alt="PartieTerminée"/>
+
 À vous de jouer !
