@@ -26,5 +26,5 @@ Le programme se divise en 5 modules Python :
 
 ## Screens du jeu 
 
-<img src="screens/1-CommencerUnePartie.png" alt="game screen 1"/> <img src="2-PartieEnCours" alt="game finished"/>
+<img src="screens/1-CommencerUnePartie.png" alt="CommencerUnePartie"/> <img src="2-PartieEnCours.png" alt="PartieEnCours"/>
 À vous de jouer !
