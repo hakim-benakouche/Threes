@@ -10,6 +10,7 @@ Le programme se divise en 5 modules Python :
 - ui/user_entries: module contenant les fonctions relatives à la saisie des coups du joueur
 - life_cycle/cycle_game : module contenant les fonctions permettant à l'utilisateur de joueur une partie
 - game/play : module contenant les fonctions relatives à l'affichage du plateau de jeu
+- tests_unitaires/ : module contenant les fonctions test des différentes parties 
 
 ## Pour lancer le jeu sur votre terminal : 
 
