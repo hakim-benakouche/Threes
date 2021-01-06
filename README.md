@@ -8,9 +8,10 @@ Le programme se divise en 5 modules Python :
 - tiles/tiles_acces : module contenant les fonctions permettant la lecture et la modification de la tuile
 - tiles/tiles_moves : module contenant les fonctions relatives aux mouvements des tuiles du plateau
 - ui/user_entries: module contenant les fonctions relatives à la saisie des coups du joueur
-- life_cycle/cycle_game : module contenant les fonctions permettant à l'utilisateur de joueur une partie
-- game/play : module contenant les fonctions relatives à l'affichage du plateau de jeu
+- ui/play_display : module contenant les fonctions relatives à l'affichage du plateau de jeu
+- life_cycle/ : module contenant les fonctions permettant à l'utilisateur de joueur une partie
 - tests_unitaires/ : module contenant les fonctions test des différentes parties 
+
 
 ## Pour lancer le jeu sur votre terminal : 
 
